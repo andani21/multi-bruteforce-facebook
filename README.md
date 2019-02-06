@@ -1,5 +1,5 @@
 # multi-bruteforce-facebook
-# author pirmansx
+# author andani21
 # dragonfly zombie team
 # language python 2
 
